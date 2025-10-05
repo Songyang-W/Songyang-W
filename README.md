@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/songyangwang/Songyang-W/main/comingsoonTAG.jpeg" width="800"/>
+  <img src="comingsoonTAG.jpeg" alt="HomeDepot1" width="300" height="400">
   <h4 align="center"><em>Something exciting is in the works — stay tuned.</em></h4>
 </p>
 
