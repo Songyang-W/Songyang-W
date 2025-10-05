@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/songyangwang/Songyang-W/main/comingsoonTAG.jpeg" width="800"/>
+  <h4 align="center"><em>Something exciting is in the works — stay tuned.</em></h4>
 </p>
 
 <h3 align="center">Hi, I'm Songyang 👋</h3>
