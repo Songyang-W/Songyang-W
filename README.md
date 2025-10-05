@@ -1,4 +1,11 @@
-Most of my recent work is under private repositories due to active collaborations and unpublished research.
-Public repositories here (e.g., SEM_related, alignTK_modified, DeepLearningCoursera) are a small sample of my coding style and project structure.
+<p align="center">
+  <img src="https://github.com/songyangwang/Songyang-W/comingsoonTAG.jpeg" width="800"/>
+</p>
 
-If you’d like to learn more about my machine learning, connectomics, or signal processing pipelines, please feel free to contact me directly for a summary or demo access.
+<h3 align="center">Hi, I'm Songyang 👋</h3>
+<p align="center">PhD @ BU | Signal Processing | Neural Modeling | Wearable Interfaces</p>
+
+Many of my current projects are maintained in private repositories as part of research collaborations and prototype development.
+The public projects on this page show my coding style and documentation standards, but only reflect a portion of my work.
+
+For more details about my signal processing, ML model evaluation, and large-scale data engineering projects, please contact me directly for summaries or demo materials.
