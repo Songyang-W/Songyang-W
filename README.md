@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/songyangwang/Songyang-W/comingsoonTAG.jpeg" width="800"/>
+  <img src="https://raw.githubusercontent.com/songyangwang/Songyang-W/main/comingsoonTAG.jpeg" width="800"/>
 </p>
 
 <h3 align="center">Hi, I'm Songyang 👋</h3>
